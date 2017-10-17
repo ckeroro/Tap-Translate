@@ -18,7 +18,7 @@
     "48": "icons/icon48.png",
     "96": "icons/icon96.png"
   },
-  "permissions": ["storage", "https://translate.google.com/translate_a/single"],
+  "permissions": ["storage", "https://translate.google.cn/translate_a/single"],
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
